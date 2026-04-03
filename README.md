@@ -26,9 +26,13 @@ This project contains an end-to-end test automation framework built using **Play
 
 ## 📁 Project Structure├── tests/ # Test files
 ├── pages/ # Page Object Models
+
 ├── utils/ # Reusable utilities
+
 ├── playwright.config.js # Configuration
+
 ├── package.json
+
 └── README.md
 
 
